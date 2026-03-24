@@ -1,0 +1,32 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Unity Burst compiler cache
+Burst/
+
+# Visual Studio / VSCode project files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+
+# Unity meta files for ignored folders
+# (keep meta files for Assets/ and ProjectSettings/)
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Unity asset store package downloads
+*.unitypackage
+
+# Project specific - filetree output
+filetree.txt
