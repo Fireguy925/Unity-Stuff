@@ -6,6 +6,7 @@ Build/
 Builds/
 Logs/
 UserSettings/
+Packages/
 
 # Unity Burst compiler cache
 Burst/
